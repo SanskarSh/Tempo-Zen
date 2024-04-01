@@ -56,7 +56,7 @@ class _VideoPlayerState extends State<VideoPlayer> {
   Widget build(BuildContext context) {
     Size size = MediaQuery.of(context).size;
     return SizedBox(
-      height: 200,
+      height: 150,
       width: size.width,
       child: SingleChildScrollView(
         scrollDirection: Axis.horizontal,

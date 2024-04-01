@@ -41,6 +41,7 @@ dependencies:
   youtube_player_flutter: ^9.0.0
   flutter_local_notifications: ^17.0.0
   flutter_glow: ^0.3.0
+  motion: ^1.4.1
   # youtube_explode_dart: ^2.1.0
   # audioplayers: ^6.0.0
 
